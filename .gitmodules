@@ -1,6 +1,6 @@
 [submodule "crosstool-NG"]
 	path = crosstool-NG
-	url = https://github.com/homebots/crosstool-NG
+	url = https://github.com/Unit-e/crosstool-NG
 	branch = xtensa-1.22.x
 [submodule "lx106-hal"]
 	path = lx106-hal
